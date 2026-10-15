@@ -2,7 +2,7 @@
 
 Estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** en ISTEA (Buenos Aires, Argentina) y aspirante a **Data Analyst**.
 
-Vengo del mundo administrativo-contable y la hotelería, y estoy haciendo la transición al análisis de datos. Este GitHub es donde voy a ir subiendo los proyectos y prácticas que desarrolle mientras aprendo.
+Vengo del mundo administrativo-contable ademas de estudios y experiencia en hotelería, y estoy haciendo la transición al análisis de datos. Este GitHub es donde voy a ir subiendo los proyectos y prácticas que desarrolle mientras aprendo.
 
 ## 🛠️ Herramientas que estoy usando
 
